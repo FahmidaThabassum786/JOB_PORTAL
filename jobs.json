@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software applications.",
+      "location": "New York"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to gain insights and support decision-making.",
+      "location": "San Francisco"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and ensure timely completion.",
+      "location": "Los Angeles"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Develop marketing strategies to increase brand awareness.",
+      "location": "Chicago"
+    },
+    {
+      "title": "UI/UX Designer",
+      "description": "Design user-friendly interfaces for web and mobile applications.",
+      "location": "Seattle"
+    }
+  ]
+  
